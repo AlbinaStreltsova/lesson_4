@@ -1,0 +1,119 @@
+@import "null.css";
+@import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+
+@font-face {
+	font-family: "OpenSansCondensed";
+	src: url("../fonts/OpenSansCondensed-Bold.woff2") format("woff2"), url("../fonts/OpenSansCondensed-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "OpenSansCondensed";
+	src: url("../fonts/OpenSansCondensed-Light.woff2") format("woff2"), url("../fonts/OpenSansCondensed-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "OpenSansCondensed";
+	src: url("../fonts/OpenSansCondensed-LightItalic.woff2") format("woff2"), url("../fonts/OpenSansCondensed-LightItalic.woff") format("woff");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+body {
+	font-family: "OpenSansCondensed", "Fjalla+One", sans-serif;
+	font-size: 20px;
+}
+
+header > h1{
+	font-size: 30px;
+	font-family: "Fjalla+One", sans-serif;
+	text-align: center;
+	color: red;
+}
+
+.menu {
+	font-family: "Fjalla+One", sans-serif;
+	font-size: 20px;
+	text-decoration: underline;
+	color: darkred;
+}
+
+h2 	{
+	font-family: "OpenSansCondensed";
+	font-style: italic;
+	font-weight: 700;
+	text-shadow: 10px 10px 30px rgb(202, 17, 17);
+	text-align: center;
+	color: brown;
+}
+
+#section_0 {
+	color:darkgreen;
+	font-family: "OpenSansCondensed";
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+p {
+	font-family: "Fjalla+One", sans-serif;
+	text-transform: lowercase;
+	color: midnightblue;
+}
+
+.say {
+	font-family: "Fjalla+One";
+	font-size: 18px;
+	text-transform: capitalize;
+	color: crimson;
+}
+
+.autor {
+	font-family: "OpenSansCondensed";
+	text-align: justify;
+	text-transform: lowercase;
+	color: chocolate;
+}
+
+#link a {
+	font-family: "Fjalla+One";
+	color: cornflowerblue;
+	text-decoration: overline;
+}
+
+footer {
+	font-family: "Fjalla+One";
+	color: cadetblue;
+	text-shadow: 2px 1px 1px rgb(14, 121, 55);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
